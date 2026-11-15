@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-enpass component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-enpass"
+name = "sigmaos_archlinux_enpass"
 path = "src/lib.rs"
