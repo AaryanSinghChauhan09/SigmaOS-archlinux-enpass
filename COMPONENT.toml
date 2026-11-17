@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-enpass"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-enpass component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
